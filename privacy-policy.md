@@ -46,8 +46,8 @@ For more information, see [RevenueCat's Privacy Policy](https://www.revenuecat.c
 ## 5. Children's Privacy
 
 Raptap is suitable for all ages and does not knowingly collect any personal information from anyone,
-including children under 13. If you believe a child has sent us personal information through a support
-request, contact us and we will delete it.
+including children under 13. If you believe a child has sent us personal information by email,
+contact us and we will delete it.
 
 ---
 
@@ -60,7 +60,8 @@ with its date at the top.
 
 ## 7. Contact Us
 
-Questions about this policy? [Open a support request](https://github.com/miladajilian/raptap-support/issues/new).
+Questions about this policy? Email us at:
+📧 **[raptapgame@gmail.com](mailto:raptapgame@gmail.com)**
 
 ---
 

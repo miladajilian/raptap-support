@@ -13,7 +13,9 @@ Need help with:
 - A bug or something that looks wrong
 - An idea for a new level, mode or dino
 
-**[Open a support request](https://github.com/miladajilian/raptap-support/issues/new)** (a free GitHub account is needed).
+Email us at:
+📧 **[raptapgame@gmail.com](mailto:raptapgame@gmail.com)**
+
 We usually reply within **1–3 business days**.
 
 Please include:
